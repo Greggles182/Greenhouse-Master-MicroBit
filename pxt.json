@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "project1": "github:greggles182/greenhousemicrobit1#v0.1.0"
     },
     "files": [
         "main.blocks",
