@@ -1,5 +1,5 @@
 
-> Open this page at [https://greggles182.github.io/Greenhouse-Master-Microbit/](https://greggles182.github.io/Greenhouse-Master-Microbit/)
+> Open this page at [https://greggles182.github.io/Greenhouse-Master-MicroBit/](https://greggles182.github.io/Greenhouse-Master-MicroBit/)
 
 ## Use as Extension
 
