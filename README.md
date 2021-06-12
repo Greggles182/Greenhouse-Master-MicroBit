@@ -1,6 +1,3 @@
-
-> Open this page at [https://greggles182.github.io/Greenhouse-Master-MicroBit/](https://greggles182.github.io/Greenhouse-Master-MicroBit/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
